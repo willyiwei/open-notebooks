@@ -1,19 +1,15 @@
 # Udemy 100 Days of Code KB
 
-
-
 ## Python Packages
 
-| Usage                  | Python Packages    |                                                              |
-| ---------------------- | ------------------ | ------------------------------------------------------------ |
-| CVS, JSON and Big Data | pandas             |                                                              |
-| HTTP Client            | requests           |                                                              |
-| GUI Programs           | tkinter, turtle    |                                                              |
+| Usage                  | Python Packages    |                                                                                           |
+| ---------------------- | ------------------ | ----------------------------------------------------------------------------------------- |
+| CVS, JSON and Big Data | pandas             |                                                                                           |
+| HTTP Client            | requests           |                                                                                           |
+| GUI Programs           | tkinter, turtle    |                                                                                           |
 | Web Scrabing           | Beautiful Soup     | Easy to use; No ability to enter forms or click buttons; Best to scrap simple HTML files. |
-|                        | Selenium Webdriver |                                                              |
-|                        |                    |                                                              |
-
-
+|                        | Selenium Webdriver |                                                                                           |
+|                        |                    |                                                                                           |
 
 ## Selenium
 
