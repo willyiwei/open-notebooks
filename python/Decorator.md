@@ -96,10 +96,10 @@ Instead of adding a `time.sleep()` call in each new methods, we can use decorato
 ```python
 def delay_decorator(function):
     def wrapper_function():
-    time.sleep(2)
-    # Do something before
-    function()
-    # Do something after
+        time.sleep(2)
+        # Do something before
+        function()
+        # Do something after
     return wrapper_function
 
 @delay_decorator
@@ -114,3 +114,11 @@ def say_bye():
 def say_greeting():
     print("How are you?")
 ```
+
+
+
+## Advance Decorator Functions
+
+* conditions, and,
+
+* passing arguments to the inner function.
